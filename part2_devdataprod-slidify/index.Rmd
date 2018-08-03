@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the mtcars dataset"
-author: "Sandip Khanvilkar (Coursea/JHU: Data Science Student)"
+author: "Sandip Khanvilkar (Coursera/JHU: Data Science Student)"
 highlighter: highlight.js
 output:
   html_document:
@@ -13,6 +13,12 @@ hitheme: tomorrow
 subtitle: variables and MPG
 framework: io2012
 widgets: bootstrap
+github: 
+  user: skhanvilkar
+  repo: Developing-data-products-Week-4-master
+  
+  
+
 ---
 
 ## Coursera Reproducible Pitch
@@ -84,4 +90,3 @@ head(mtcars, 3)
     })  })
 
 ```
-
